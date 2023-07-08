@@ -1,7 +1,7 @@
 # wow_analysis
 My analysis of WoW Battlegrounds Data
 
-This is the written portion of my analysis. For all tables and figures reference here, you will need to run the code on your system. 
+This is the written portion of my analysis. For all tables and figures referenced here, you will need to run the code on your system. 
 
 Acknowledgements: Dave Cassidy for help with stats and introducing new analysis tools for me to use. Abby Agi for help with stats as well and supporting me in this project.
 
