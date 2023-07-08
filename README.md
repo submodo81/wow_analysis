@@ -33,7 +33,7 @@ Thus, while no significant differences exist between Horde and Alliance DD varia
 
 4. Differences in the Ratio of Victories
 
-To examine the impact of assume underlying variables (such as HD or HK) on the ratio of wins and losses, a contingency table was made to assess any significant association between the two factions. This table displays the frequency of wins and losses for each faction. Alliance (pa = .373) and Horde (ph¬ = .637). This allows for an analysis of wins and losses between factions. Furthermore, a χ2 analysis was performed on the contingency table to determine the significance of any association.
+To examine the impact of assumed underlying variables (such as HD or HK) on the ratio of wins and losses, a contingency table was made to assess any significant association between the two factions. This table displays the frequency of wins and losses for each faction. Alliance (pa = .373) and Horde (ph¬ = .637). This allows for an analysis of wins and losses between factions. Furthermore, a χ2 analysis was performed on the contingency table to determine the significance of any association.
 
 The results of the χ2 analysis indicate that there is a statistically significant association between the ratio of wins to losses the faction one plays. This finding contributes to understanding the interplay between assumed underlying variables (DD, HD, D, etc.) and the performance of outcomes of World of Warcraft Battlegrounds. The betting odds being a highly depressing almost 1:2 ratio favoring the Horde.
 
